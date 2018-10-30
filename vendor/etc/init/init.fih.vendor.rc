@@ -1,0 +1,28 @@
+on boot
+    start updatevendor
+
+service updatevendor /vendor/bin/UpdateVendor
+    disabled
+    user root
+    group root
+    oneshot
+
+on property:sys.fkfih.build.fingerprint=*
+    setprop ro.vendor.build.fingerprint ${sys.fkfih.build.fingerprint}
+
+on property:sys.fkfih.product.manufacturer=*
+    setprop ro.vendor.product.manufacturer ${sys.fkfih.product.manufacturer}
+
+on property:sys.fkfih.product.model=*
+    setprop ro.vendor.product.model ${sys.fkfih.product.model}
+
+on property:sys.fkfih.product.brand=*
+    setprop ro.vendor.product.brand ${sys.fkfih.product.brand}
+
+on property:sys.fkfih.product.name=*
+    setprop ro.vendor.product.name ${sys.fkfih.product.name}
+
+on property:sys.fkfih.product.device=*
+    setprop ro.vendor.product.device ${sys.fkfih.product.device}
+
+

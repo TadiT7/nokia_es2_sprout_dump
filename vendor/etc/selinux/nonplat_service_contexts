@@ -1,0 +1,2 @@
+com.goodix.FingerprintService    u:object_r:goodix_fingerprint_service:s0
+fqcfingerprint u:object_r:fqcfingerprint_service:s0

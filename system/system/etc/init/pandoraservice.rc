@@ -1,0 +1,48 @@
+on fs	
+    chown system system /BBSYS
+    chmod 0770 /BBSYS
+    chmod 0660 /dev/fih
+    chown root system /dev/fih
+    restorecon_recursive /BBSYS
+
+service bbsys_bc /system/bin/bbsbc
+    class main
+    disabled
+    oneshot
+
+service bbsys /system/bin/pandoraservice
+    class bbsys
+    user system
+    oneshot
+    group system media_rw sdcard_rw
+    socket bbsys stream 666 system system
+
+on property:persist.sys.bbsys=on
+    start bbsys
+
+on property:persist.sys.bbsys=off
+    stop bbsys
+
+on property:persist.sys.bbsys=restart
+    stop bbsys
+    setprop persist.sys.bbsys on
+
+on property:sys.bbsys.bc=*
+    start bbsys_bc
+
+on property:sys.fih.check=1
+   start fih_fast_check
+
+# create filesystems if necessary
+service check_sys /system/bin/fih_signature -c /system
+   class core
+   user root
+   group root system
+   oneshot
+
+service fih_fast_check /system/bin/fih_fast_check
+   class core
+   user root
+   group root system
+   disabled
+   oneshot

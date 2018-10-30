@@ -1,0 +1,10 @@
+on post-fs-data
+    start preload_app
+
+service preload_app /system/bin/sh /system/etc/removable-preload-app.sh
+    disabled
+    class core
+    user root
+    group root
+    oneshot
+    seclabel u:r:pre-cda:s0

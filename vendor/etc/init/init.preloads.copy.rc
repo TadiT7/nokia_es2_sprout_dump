@@ -1,0 +1,6 @@
+on post-fs-data
+    #create preloads, so as to keep the copied files from /postinstall/preloads
+    mkdir /data/preloads 0775 system system
+    restorecon_recursive /data/preloads
+    mkdir /data/preloads/apps-postinstall 0775 system system
+    restorecon_recursive /data/preloads/apps-postinstall

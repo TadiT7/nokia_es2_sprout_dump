@@ -1,0 +1,3 @@
+on post-fs-data
+    #Add charging mode access for ALT
+    chown system root /sys/devices/platform/battery/Charger_Switch_Value

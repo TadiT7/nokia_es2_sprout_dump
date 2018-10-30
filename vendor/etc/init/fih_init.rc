@@ -1,0 +1,9 @@
+# fih_init process
+service fih_init_service /vendor/bin/fih_init
+    user root
+    group root
+    disabled
+    oneshot
+
+on early-init
+    start fih_init_service

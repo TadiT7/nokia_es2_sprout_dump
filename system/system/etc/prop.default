@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Aug 30 09:54:26 CST 2018
+ro.bootimage.build.date.utc=1535594066
+ro.bootimage.build.fingerprint=Nokia/Essential2_00WW/ES2_sprout:8.1.0/O11019/00WW_2_56B:user/release-keys
+persist.sys.usb.config=none

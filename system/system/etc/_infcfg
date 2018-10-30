@@ -1,0 +1,91 @@
+!   <info ver:32 id:0 file:BatID key:BATID opt:3 type:-5 ctr:3>
+<info ver:18 id:1 file:SWupgrade key:SWUPG opt:0 type:-64 ctr:20>
+<info id:2 file:NetInf key:NETINF opt:0 type:-3 ctr:1>
+<info ver:11 id:3 file:SIMInf key:SIMINF opt:0 type:-3 ctr:15>
+<info id:4 file:Talk key:TALKTIME opt:1 type:8 ctr:1>
+<info id:5 file:Data key:DATAPKG opt:1 type:8 ctr:1>
+<info ver:2 id:6 file:PwrOn key:PWRON opt:1 type:8 ctr:1>
+<info id:7 file:IMEI key:IMEI opt:0 type:-8 ctr:1>
+<info ver:19 id:8 file:DROPBOX key:DROPBOX opt:0 type:-64 ctr:1000>
+<info id:9 file:KernelPanic key:KERNELPANIC opt:1 type:8 ctr:1>
+<info id:10 file:APKs key:INSAPK opt:0 type:-64 ctr:1000>
+<info id:11 file:Root_status key:ROOTSTATUS opt:0 type:2 ctr:1>
+<info id:12 file:Img_status key:IMGSTATUS opt:0 type:2 ctr:1>
+<info id:13 file:ModPanic key:MODPANIC opt:1 type:8 ctr:1>
+<info id:14 file:FrameworkPanic key:FWPANIC opt:1 type:8 ctr:1>
+<info id:15 file:UnknowPanic key:UNKPANIC opt:1 type:8 ctr:1>
+<info id:16 file:PWRCut key:PWRCUT opt:1 type:8 ctr:1>
+<info id:17 file:APKs key:UNINSAPK opt:0 type:-64 ctr:1000>
+<info id:18 file:MRESET key:MRESET opt:2 type:9 ctr:50>
+<info id:19 file:PowerAbnormal key:PWABN opt:0 type:2;2;2;2;-75 ctr:15>
+<info id:20 file:APKs key:UPDPK opt:0 type:-64 ctr:1000>
+<info id:21 file:SMPL key:SMPL opt:1 type:8 ctr:1>
+<info ver:-1 id:22 file:FC key:ANRPKG opt:0 type:-64 ctr:1000>
+<info ver:-1 id:23 file:FC key:NCPKG opt:0 type:-64 ctr:1000>
+<info id:24 file:CURRENT_ROOT key:CURRENT_ROOT opt:0 type:2 ctr:1>
+<info id:25 file:ROOT_REASON key:ROOT_REASON opt:0 type:-15 ctr:10>
+<info ver:3 id:26 file:CPU_LEVEL key:CPU_LEVEL opt:0 type:-15 ctr:1>
+<info ver:24 id:27 file:SMS_TRANSMIT_COUNT key:SMS_TRANSMIT_COUNT opt:1 type:8 ctr:1>
+<info ver:24 id:28 file:SMS_TRANSMIT_FIAL key:SMS_TRANSMIT_FIAL opt:1 type:8 ctr:1>
+<info ver:24 id:29 file:SMS_RECEIVE_COUNT key:SMS_RECEIVE_COUNT opt:1 type:8 ctr:1>
+<info ver:24 id:30 file:TALK_TIME_COUNT key:TALK_TIME_COUNT opt:1 type:8 ctr:1>
+<info ver:24 id:31 file:MMS_TRANSMIT_COUNT key:MMS_TRANSMIT_COUNT opt:1 type:8 ctr:1>
+<info ver:24 id:32 file:MMS_TRANSMIT_FIAL key:MMS_TRANSMIT_FIAL opt:1 type:8 ctr:1>
+<info ver:24 id:33 file:MMS_RECEIVE_COUNT key:MMS_RECEIVE_COUNT opt:1 type:8 ctr:1>
+<info ver:6 id:34 file:IMEI key:IMEI2 opt:0 type:-8 ctr:1>
+<info ver:6 id:35 file:MEID key:MEID opt:0 type:-8 ctr:1>
+<info ver:6 id:36 file:MEID key:MEID2 opt:0 type:-8 ctr:1>
+<info ver:7 id:37 file:NETWORK_LOCK key:NETWORK_LOCK opt:0 type:-64 ctr:1>
+<info ver:9 id:38 file:SHDN_LOW_BATT key:SHDN_LOW_BATT opt:0 type:-10 ctr:10>
+<info ver:9 id:39 file:SHDN_BATT_OVHEAT key:SHDN_BATT_OVHEAT opt:0 type:-10 ctr:10>
+<info ver:31 id:40 file:SHDN_CPU_OVHEAT key:SHDN_CPU_OVHEAT opt:0 type:-64 ctr:10>
+<info ver:9 id:41 file:SHDN_USER key:SHDN_USER opt:0 type:-10 ctr:10>
+<info ver:9 id:42 file:SHDN_FRAMEWORK key:SHDN_FRAMEWORK opt:0 type:-10 ctr:10>
+<info ver:9 id:43 file:SHDN_HARD_RESET key:SHDN_HARD_RESET opt:0 type:-10 ctr:10>
+<info ver:9 id:44 file:SHDN_SMPL key:SHDN_SMPL opt:0 type:-10 ctr:10>
+<info ver:9 id:45 file:SHDN_UVLO key:SHDN_UVLO opt:0 type:-10 ctr:10>
+<info ver:10 id:46 file:GPS_SUCCESS key:GPS_SUCCESS opt:0 type:6;2;2;2;2;2;2;2;4;-15 ctr:10>
+<info ver:11 id:47 file:GPS_FAIL key:GPS_FAIL opt:0 type:6;2;2;2;2;2;2;2;4;-15 ctr:50>
+<info ver:28 id:48 file:CAIVS key:CAIVS opt:0 type:-20 ctr:10>
+<info ver:10 id:49 file:BATT_FCC_MAX key:BATT_FCC_MAX opt:0 type:4 ctr:1>
+<info ver:10 id:50 file:BATT_FCC key:BATT_FCC opt:0 type:4;4 ctr:25>
+<info ver:10 id:51 file:IN_CURR key:IN_CURR opt:0 type:4;-2 ctr:15>
+<info ver:11 id:52 file:NET_2G_SIG_NOR key:NET_2G_SIG_NOR opt:0 type:2;2;2;2;5;5;2;4;8;4;3;-10;-15 ctr:15>
+<info ver:11 id:53 file:NET_3G_SIG_NOR key:NET_3G_SIG_NOR opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:15>
+<info ver:11 id:54 file:NET_LTE_SIG_NOR key:NET_LTE_SIG_NOR opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:15>
+<info ver:11 id:55 file:NET_2G_SIG_BAD key:NET_2G_SIG_BAD opt:0 type:2;2;2;2;5;5;2;4;8;4;3;-10;-15 ctr:50>
+<info ver:11 id:56 file:NET_3G_SIG_BAD key:NET_3G_SIG_BAD opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:50>
+<info ver:11 id:57 file:NET_LTE_SIG_BAD key:NET_LTE_SIG_BAD opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:50>
+<info ver:11 id:58 file:NET_2G_CALL_DROP key:NET_2G_CALL_DROP opt:0 type:2;2;2;2;5;5;2;4;8;4;3;-10;-15 ctr:50>
+<info ver:11 id:59 file:NET_3G_CALL_DROP key:NET_3G_CALL_DROP opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:50>
+<info ver:11 id:60 file:NET_LTE_CALL_DROP key:NET_LTE_CALL_DROP opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:50>
+<info ver:11 id:61 file:NET_2G_REJ key:NET_2G_REJ opt:0 type:2;2;2;2;5;5;2;4;8;4;3;-10;-15 ctr:50>
+<info ver:11 id:62 file:NET_3G_REJ key:NET_3G_REJ opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:50>
+<info ver:11 id:63 file:NET_LTE_REJ key:NET_LTE_REJ opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:50>
+<info ver:11 id:64 file:NET_2G_DATA key:NET_2G_DATA opt:0 type:2;2;2;2;5;5;2;4;8;4;3;-10;-15 ctr:50>
+<info ver:11 id:65 file:NET_3G_DATA key:NET_3G_DATA opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:50>
+<info ver:11 id:66 file:NET_LTE_DATA key:NET_LTE_DATA opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:50>
+<info ver:17 id:67 file:EMMC_ABN key:EMMC_ABN opt:0 type:8 ctr:10>
+<info ver:21 id:68 file:SD key:SD opt:0 type:4;8;-4 ctr:10>
+<info ver:13 id:69 file:DNS key:DNS opt:0 type:-8;-20 ctr:10>
+<info ver:15 id:70 file:WIFI key:WIFI opt:0 type:-10;3;-9;4;2;-2;-10;-15 ctr:10>
+<info ver:18 id:71 file:THERMAL key:THERMAL opt:0 type:-64 ctr:500>
+<info ver:14 id:72 file:RST_GUAGE key:RSET_GUAGE opt:2 type:9 ctr:1>
+<info ver:15 id:73 file:BT key:BT opt:0 type:4;4;-10;-9;-10 ctr:10>
+<info ver:16 id:74 file:ISP_RECOVER key:ISP_RECOVER opt:1 type:4 ctr:1>
+<info ver:16 id:75 file:PREWVIEW_FAIL key:PREWVIEW_FAIL opt:0 type:-5 ctr:10>
+<info ver:22 id:76 file:FRAME_DROP key:FRAME_DROP opt:0 type:4;-20 ctr:100>
+<info ver:23 id:77 file:COMPONENT key:GSENSOR opt:0 type:-5;-13 ctr:1>
+<info ver:23 id:78 file:COMPONENT key:CAMERAR_SENSOR opt:0 type:-5;-13 ctr:1>
+<info ver:23 id:79 file:COMPONENT key:CAMERAR_VCM opt:0 type:-5 ctr:1>
+<info ver:24 id:80 file:CONTACTS_DB_SIZE key:CONTACTS_DB_SIZE opt:0 type:8 ctr:1>
+<info ver:24 id:81 file:CONTACT_NUM key:CONTACT_NUM opt:0 type:-95 ctr:1>
+<info ver:25 id:82 file:BHD_CALL_DROP key:BHD_CALL_DROP opt:0 type:2;1;2;4;2;2;1;-18;2;2;2;2;2;-11 ctr:50>
+<info ver:25 id:83 file:BHD_NET_REJ key:BHD_NET_REJ opt:0 type:4;-15;-11 ctr:50>
+<info ver:26 id:84 file:WIFI_CON_FAIL key:WIFI_CON_FAIL opt:0 type:-9;2;2 ctr:10>
+<info ver:26 id:85 file:WIFI_DISASSOCIATION key:WIFI_DISASSOCIATION opt:0 type:-9;2;2;2;-9 ctr:10>
+<info ver:27 id:86 file:DM_VERITY key:DM_VERITY opt:0 type:-10 ctr:1>
+<info ver:29 id:87 file:OPT_LMK key:OPT_LMK opt:0 type:8;8 ctr:10>
+<info ver:30 id:88 file:CAMERA_CCI key:CAMERA_CCI opt:0 type:-10;-10 ctr:5>
+<info ver:33 id:89 file:MO_CSFB_CALL_DROP key:MO_CSFB_CALL_DROP opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;3;3;-10;-15 ctr:50>
+<info ver:33 id:90 file:VOICE_HANDOVER key:VOICE_HANDOVER opt:0 type:2;2;2;2;5;5;2;4;8;4;3;3;-10;-15 ctr:50>

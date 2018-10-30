@@ -1,0 +1,207 @@
+<HWMapTable>
+
+    <HWModel HWID="ES2" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1063</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ESN" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1063</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ES2" SKUID="600WW" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1057</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ESN" SKUID="600WW" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1057</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ES2" SKUID="600RU" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1063</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.product.locale>ru_RU</ro.product.locale>
+        <ro.cda.skuid.rro>600WW</ro.cda.skuid.rro>
+        <ro.russia.zzz_ver_append_str>_RU</ro.russia.zzz_ver_append_str>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ESN" SKUID="600RU" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1063</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.product.locale>ru_RU</ro.product.locale>
+        <ro.cda.skuid.rro>600WW</ro.cda.skuid.rro>
+        <ro.russia.zzz_ver_append_str>_RU</ro.russia.zzz_ver_append_str>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ES2" SKUID="600RU" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1057</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.product.locale>ru_RU</ro.product.locale>
+        <ro.cda.skuid.rro>600WW</ro.cda.skuid.rro>
+        <ro.russia.zzz_ver_append_str>_RU</ro.russia.zzz_ver_append_str>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ESN" SKUID="600RU" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1057</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.product.locale>ru_RU</ro.product.locale>
+        <ro.cda.skuid.rro>600WW</ro.cda.skuid.rro>
+        <ro.russia.zzz_ver_append_str>_RU</ro.russia.zzz_ver_append_str>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="E2L" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1049</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ELN" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1049</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="E2L" SKUID="600WW" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1074</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ELN" SKUID="600WW" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1074</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="E2L" SKUID="62GMX" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1074</ro.product.model.display>
+        <ro.com.google.clientidbase>android-americamovil-{country}-revc</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="ELN" SKUID="62GMX" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1074</ro.product.model.display>
+        <ro.com.google.clientidbase>android-americamovil-{country}-revc</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="E2I" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1070</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2</ro.cda.pai.path>
+    </HWModel>
+
+    <HWModel HWID="EIN" SKUID="600WW" SIMSlot="2" PROJECT="ES2">
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.name>Essential2_00WW</ro.product.name>
+        <ro.product.device>ES2N_sprout</ro.product.device>
+        <ro.product.model>Nokia 3.1</ro.product.model>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 3.1</ro.product.nickname>
+        <ro.product.model.display>TA-1070</ro.product.model.display>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.cda.pai.path>ES2N</ro.cda.pai.path>
+    </HWModel>
+
+</HWMapTable>

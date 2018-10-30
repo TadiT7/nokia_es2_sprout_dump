@@ -1,0 +1,6 @@
+\system\CDA\600RU\Power-on animation\bootanimation.zip => \system\CDA\600RU\Power-on-animation\bootanimation.zip
+\system\CDA\600RU\Power-on sound\boot.wav => \system\CDA\600RU\Power-on-sound\boot.wav
+\system\CDA\600WW\Power-on animation\bootanimation.zip => \system\CDA\600WW\Power-on-animation\bootanimation.zip
+\system\CDA\600WW\Power-on sound\boot.wav => \system\CDA\600WW\Power-on-sound\boot.wav
+\system\CDA\62GMX\Power-on animation\bootanimation.zip => \system\CDA\62GMX\Power-on-animation\bootanimation.zip
+\system\CDA\62GMX\Power-on sound\boot.wav => \system\CDA\62GMX\Power-on-sound\boot.wav
